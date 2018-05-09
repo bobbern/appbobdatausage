@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\f184db4d989de1c780dee53762ee7c7e545a6847\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

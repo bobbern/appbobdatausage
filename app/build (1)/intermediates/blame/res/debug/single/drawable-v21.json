@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\f184db4d989de1c780dee53762ee7c7e545a6847\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\f184db4d989de1c780dee53762ee7c7e545a6847\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\fe55a1d808d79a6b4f305fa6cc127990bb086e46\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\f184db4d989de1c780dee53762ee7c7e545a6847\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\asusw7\\Google Drive\\AndroidStudioProjects\\APP_BOB_Data_Usage_V2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\asusw7\\.android\\build-cache\\f184db4d989de1c780dee53762ee7c7e545a6847\\output\\res\\drawable-v21\\avd_show_password.xml"
+    }
+]
