@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/name"
             android:padding="4dp"
-            tools:text="pl.rzagorski.networkstatsmamanger"/>
+            tools:text="ca.robertbernier.exercices.appbobdatausage"/>
 
         <TextView
             android:id="@+id/version"
